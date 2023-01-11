@@ -1,12 +1,12 @@
 public class teste3 {
     public static void main(String[] args) {
-        int x = 19;
-        int y = 20;
-        if (x < y){
-            System.out.println(x + " é menor que " + y);
-        }else if (x == y){
-            System.out.println(x + " são iguais " + y);
-        }else System.out.println(x + " é maior que " + y);
+        int v1 = 19;
+        int v2 = 20;
+        if (v1 < v2){
+            System.out.println(v1 + " é menor que " + v2);
+        }else if (v1 == v2){
+            System.out.println(v1 + " são iguais " + v2);
+        }else System.out.println(v1 + " é maior que " + v2);
 
     }
 }
